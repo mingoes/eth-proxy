@@ -1,0 +1,65 @@
+2017-05-23 13:35:14,831 WARNING proxy # Ethereum Stratum proxy version: 0.0.5
+2017-05-23 13:35:14,831 WARNING proxy # Trying to connect to Stratum pool at us1.ethermine.org:4444
+2017-05-23 13:35:14,832 WARNING proxy # Trying to connect to failover Stratum pool-1 at eth-ru.dwarfpool.com:8008
+2017-05-23 13:35:14,832 WARNING proxy # Trying to connect to failover Stratum pool-2 at eth-us.dwarfpool.com:8008
+2017-05-23 13:35:14,832 WARNING proxy # Trying to connect to failover Stratum pool-3 at eth-hk.dwarfpool.com:8008
+2017-05-23 13:35:14,872 INFO stats # 1 peers connected, state changed 1 times
+2017-05-23 13:35:14,873 INFO proxy # Connected to Stratum pool at us1.ethermine.org:4444
+2017-05-23 13:35:14,873 INFO stats # 2 peers connected, state changed 1 times
+2017-05-23 13:35:14,873 INFO proxy # Connected to Stratum pool at eth-us.dwarfpool.com:8008
+2017-05-23 13:35:14,909 WARNING proxy # -----------------------------------------------------------------------
+2017-05-23 13:35:14,910 WARNING proxy # PROXY IS LISTENING ON ALL IPs ON PORT 8080
+2017-05-23 13:35:14,910 WARNING proxy # -----------------------------------------------------------------------
+2017-05-23 13:35:14,910 WARNING proxy # Wallet: 0xbabca1a356d768dbe38737fe9486749c4bfcf93f
+2017-05-23 13:35:14,910 WARNING proxy # Worker ID enabled: True
+2017-05-23 13:35:14,910 WARNING proxy # Email monitoring disabled
+2017-05-23 13:35:14,910 WARNING proxy # Failover enabled: True
+2017-05-23 13:35:14,911 WARNING proxy # -----------------------------------------------------------------------
+2017-05-23 13:35:14,945 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:35:14,968 INFO stats # 3 peers connected, state changed 1 times
+2017-05-23 13:35:14,968 INFO proxy # Connected to Stratum pool at eth-ru.dwarfpool.com:8008
+2017-05-23 13:35:15,049 INFO stats # 4 peers connected, state changed 1 times
+2017-05-23 13:35:15,050 INFO proxy # Connected to Stratum pool at eth-hk.dwarfpool.com:8008
+2017-05-23 13:35:16,196 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:35:21,894 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:35:29,580 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:35:36,321 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:35:47,939 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:35:50,519 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:35:59,113 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:36:31,287 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:36:33,776 INFO proxy # Hashrate for mbp is 0.0 MHs
+2017-05-23 13:36:34,872 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:36:43,050 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:37:26,062 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:37:33,734 INFO proxy # Hashrate for mbp is 0.746947 MHs
+2017-05-23 13:37:40,356 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:37:48,113 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:37:55,765 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:37:58,851 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:38:03,914 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:38:11,794 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:38:33,441 INFO proxy # Hashrate for mbp is 0.670476 MHs
+2017-05-23 13:38:50,070 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:39:29,386 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:39:33,310 INFO proxy # Hashrate for mbp is 0.75045 MHs
+2017-05-23 13:40:04,059 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:40:22,854 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:40:29,207 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:40:33,315 INFO proxy # Hashrate for mbp is 0.741463 MHs
+2017-05-23 13:41:11,437 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:41:20,249 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:41:33,236 INFO proxy # Hashrate for mbp is 0.732432 MHs
+2017-05-23 13:41:57,390 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:42:10,993 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:42:14,886 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:42:33,726 INFO proxy # Hashrate for mbp is 0.732806 MHs
+2017-05-23 13:43:08,631 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:43:19,003 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:43:33,659 INFO proxy # Hashrate for mbp is 0.664459 MHs
+2017-05-23 13:43:37,631 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:43:41,614 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:44:19,791 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:44:33,165 INFO proxy # Hashrate for mbp is 0.721187 MHs
+2017-05-23 13:44:35,060 INFO proxy # NEW_JOB MAIN_POOL
+2017-05-23 13:44:58,466 INFO proxy # NEW_JOB MAIN_POOL
